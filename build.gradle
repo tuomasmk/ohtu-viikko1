@@ -27,6 +27,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
+// apply Jacoco reports
 apply plugin: "jacoco"
 
 jar {
