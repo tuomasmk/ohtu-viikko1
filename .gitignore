@@ -2,3 +2,4 @@
 build
 /RiippuvuuksienInjektointi1/.nb-gradle/
 /NhlStatistics1/.nb-gradle/
+.gradle/
